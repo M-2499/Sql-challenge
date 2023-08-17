@@ -31,7 +31,7 @@ These tables are the foundation of the database, organizing data into meaningful
 
 Data Analysis Queries
 
---The repository includes a set of SQL queries designed to analyze the employee database and answer various questions. These queries provide insights into -----------different aspects of the organization:
+--The repository includes a set of SQL queries designed to analyze the employee database and answer various questions. These queries provide insights into different aspects of the organization:
 
 --List Employee Details and Salary: Retrieve employee number, last name, first name, sex, and salary of each employee.
 
@@ -45,7 +45,8 @@ Data Analysis Queries
 
 --Employees in Sales Department: Display employee number, last name, and first name of employees in the Sales department.
 
---Employees in Sales and Development Departments: List employee number, last name, first name, and department name for employees in the Sales and Development --------departments.
+--Employees in Sales and Development Departments: List employee number, last name, first name, and department name for employees in the Sales and Development departments.
+
 --Last Name Frequency: Provide a frequency count of employee last names, ordered in descending order by frequency.
 
 
