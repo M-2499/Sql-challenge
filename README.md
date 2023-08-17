@@ -4,7 +4,10 @@ Employee Database and Data Analysis:
 
 Welcome to the Employee Database and Data Analysis repository. This repository contains SQL scripts that define a database schema and perform various data analysis tasks on it. The database schema includes tables for employee information, titles, departments, salaries, and more. The provided SQL queries allow you to extract valuable insights from this database.
 
+
 Creating Tables
+
+
 The database structure is established using SQL Data Definition Language (DDL) statements, which define the tables to hold various types of information. Each table corresponds to a specific aspect of the organizational data. Here's a brief summary of the table creation process:
 
 titles Table
@@ -48,6 +51,8 @@ Data Analysis Queries
   Employees in Sales and Development Departments: List employee number, last name, first name, and department name for employees in the Sales and Development departments.
 
   Last Name Frequency: Provide a frequency count of employee last names, ordered in descending order by frequency.
+
+
 
 
 
